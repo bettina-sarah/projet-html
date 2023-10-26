@@ -1,0 +1,25 @@
+pas besoin de copier tous les articles
+
+; 2eme page web: du lorem ipsum (generateur lorem ipsum)
+
+id titre approprié comme un variable nom unique significatif
+
+barre de navigation (liste)
+
+communiquer de 1 a lautre site web (link dedans)
+
+chemins relatifs pour les imagines (sous-dossier d'images)
+
+______________________
+html:5 enter
+title: titre dans page web
+lang fr-ca
+meta: 
+charset: jeu de char
+
+conteneur(ceci est une boite dans une boite) sans style
+
+conteneur generique
+<p>fffff <span>fff </span> </p>
+
+COPYRIGHT: (&copy;)
